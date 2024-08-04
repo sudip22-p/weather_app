@@ -1,0 +1,8 @@
+#background-img {
+    background-image: url('../../assets/bcg-img.png');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    width: 60vw;
+    opacity: 0.9;
+  }
